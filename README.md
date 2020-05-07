@@ -2,7 +2,7 @@
 
 
 ### 结构
-.
+
 ├── db.sqlite3
 ├── manage.py
 ├── mysite
